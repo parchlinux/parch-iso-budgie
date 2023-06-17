@@ -137,15 +137,40 @@ gvfs
 gvfs-mtp
 networkmanager
 android-file-transfer
-lightdm
-lightdm-gtk-greeter
+sddm
+micro
 
 #Desktop
 budgie
 network-manager-applet
 budgie-extras
-nordic-bluish-accent-standard-buttons-theme
+catppuccin-mocha-dark-cursors
 papirus-icon-theme
+nemo
+gnome-terminal
+catppuccin-gtk-theme-mocha
+
+
+#Desktop Parts
+eom
+xed
+mpv
+xreader
+warpinator
+transmission-gtk
+timeshift
+amberol
+geary
+bearings-bin
+webapp-manager
+sticky
+
+#archive
+engrampa
+unzip
+unrar
+p7zip
+
 
 #systemutils
 btop
@@ -155,6 +180,10 @@ neofetch-git
 ttf-ms-fonts
 parch-firefox-config
 firefox
+noto-fonts
+vazirmatn-fonts
+fira-code-font
+fira-code-mono
 
 #parchlinuxstuff
 calamares
@@ -164,3 +193,4 @@ paru
 parch-emoji-ios
 parch-branding
 parch-pacman
+parch-os-wallpapers
