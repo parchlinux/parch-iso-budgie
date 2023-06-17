@@ -137,8 +137,15 @@ gvfs
 gvfs-mtp
 networkmanager
 android-file-transfer
+lightdm
+lightdm-gtk-greeter
 
 #Desktop
+budgie
+network-manager-applet
+budgie-extras
+nordic-bluish-accent-standard-buttons-theme
+papirus-icon-theme
 
 #systemutils
 btop
