@@ -177,13 +177,14 @@ btop
 xdg-user-dirs
 packagekit-qt5
 neofetch-git
-ttf-ms-fonts
-parch-firefox-config
+ttf-dejavu
 firefox
 noto-fonts
 vazirmatn-fonts
 fira-code-font
 fira-code-mono
+parch-welcome
+parch-grub
 
 #parchlinuxstuff
 calamares
@@ -194,3 +195,4 @@ parch-emoji-ios
 parch-branding
 parch-pacman
 parch-os-wallpapers
+parch-gnome-backgrounds
