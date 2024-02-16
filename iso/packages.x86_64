@@ -10,7 +10,14 @@ brltty
 broadcom-wl-dkms
 btrfs-progs
 clonezilla
+pipewire
+pipewire-pulse
+wireplumber
+bluez
+bluez-utils
+gnome-bluetooth
 cloud-init
+parch-bluetooth
 cryptsetup
 darkhttpd
 ddrescue
@@ -149,7 +156,8 @@ papirus-icon-theme
 nemo
 gnome-terminal
 catppuccin-gtk-theme-mocha
-
+parch-budgie-config
+parch-budgie
 
 #Desktop Parts
 eom
@@ -157,8 +165,6 @@ xed
 mpv
 xreader
 warpinator
-transmission-gtk
-timeshift
 amberol
 geary
 bearings-bin
@@ -166,7 +172,7 @@ webapp-manager
 sticky
 
 #archive
-engrampa
+nemo-fileroller
 unzip
 unrar
 p7zip
@@ -175,9 +181,7 @@ p7zip
 #systemutils
 btop
 xdg-user-dirs
-packagekit-qt5
 neofetch-git
-ttf-dejavu
 firefox
 noto-fonts
 vazirmatn-fonts
